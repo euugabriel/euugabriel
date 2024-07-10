@@ -1,10 +1,21 @@
 <!--Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
 
-<h1>Olá, eu sou Gabriel Soares</h1>
-<p>Desenvolvedor Front-End</p>
+<h1>Olá, eu sou Gabriel Soares Desenvolvedor Front-End</h1>
 
-<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=euugabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=euugabriel&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=euugabriel&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=euugabriel&show_icons=true" />
+</picture>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
